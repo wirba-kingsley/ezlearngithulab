@@ -3,7 +3,7 @@ $baseDirectory = "C:\Users\mnyuy\OneDrive\Desktop\ezlearngitlab\EZLearn_School"
 
 # Define classes and courses
 $classes = @('Form_1', 'Form_2', 'Form_3', 'Form_4')
-$courses = @('Mathematics', 'Science', 'English', 'History', 'Geography')
+$courses = @('Mathematics', 'Science', 'English', 'History', 'Geography' 'chemistry')
 
 # Define a list of first and last names (Add more names or change as needed)
 $firstNames = @('Alex', 'Jordan', 'Taylor', 'Morgan', 'Casey', 'Jamie', 'Riley', 'Quinn', 'Skyler', 'Drew')
